@@ -1,5 +1,12 @@
 # Changelog
 
+## [12.3.0](https://github.com/matter-labs/zksync-era/compare/prover-v12.2.0...prover-v12.3.0) (2024-03-31)
+
+
+### Features
+
+* Archive old prover jobs ([#1516](https://github.com/matter-labs/zksync-era/issues/1516)) ([201476c](https://github.com/matter-labs/zksync-era/commit/201476c8c1869c30605eb2acd462ae1dfe026fd1))
+
 ## [12.2.0](https://github.com/matter-labs/zksync-era/compare/prover-v12.1.0...prover-v12.2.0) (2024-03-28)
 
 
